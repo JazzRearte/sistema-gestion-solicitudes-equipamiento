@@ -1,0 +1,132 @@
+[
+  {
+    "id": "sol-1001",
+    "equipoId": "eq-001",
+    "usuarioId": "usr-003",
+    "fechaRetiro": "2026-06-20",
+    "fechaDevolucion": "2026-06-25",
+    "motivo": "Práctica de laboratorio de programación",
+    "estado": "aprobada",
+    "autorizadoPor": "usr-001"
+  },
+  {
+    "id": "sol-1002",
+    "equipoId": "eq-002",
+    "usuarioId": "usr-004",
+    "fechaRetiro": "2026-06-18",
+    "fechaDevolucion": "2026-06-22",
+    "motivo": "Trabajo práctico de redes",
+    "estado": "pendiente",
+    "autorizadoPor": null
+  },
+  {
+    "id": "sol-1003",
+    "equipoId": "eq-003",
+    "usuarioId": "usr-003",
+    "fechaRetiro": "2026-06-15",
+    "fechaDevolucion": "2026-06-20",
+    "motivo": "Exposición en clase",
+    "estado": "aprobada",
+    "autorizadoPor": "usr-001"
+  },
+  {
+    "id": "sol-1004",
+    "equipoId": "eq-005",
+    "usuarioId": "usr-004",
+    "fechaRetiro": "2026-06-10",
+    "fechaDevolucion": "2026-06-12",
+    "motivo": "Presentación de proyecto final",
+    "estado": "aprobada",
+    "autorizadoPor": "usr-002"
+  },
+  {
+    "id": "sol-1005",
+    "equipoId": "eq-001",
+    "usuarioId": "usr-004",
+    "fechaRetiro": "2026-05-10",
+    "fechaDevolucion": "2026-05-14",
+    "motivo": "Examen de recuperatorio",
+    "estado": "devuelta",
+    "autorizadoPor": "usr-001"
+  },
+  {
+    "id": "sol-1006",
+    "equipoId": "eq-002",
+    "usuarioId": "usr-003",
+    "fechaRetiro": "2026-05-20",
+    "fechaDevolucion": "2026-05-22",
+    "motivo": "Práctica integradora",
+    "estado": "rechazada",
+    "autorizadoPor": null
+  },
+  {
+    "id": "sol-1007",
+    "equipoId": "eq-004",
+    "usuarioId": "usr-003",
+    "fechaRetiro": "2026-05-01",
+    "fechaDevolucion": "2026-05-03",
+    "motivo": "Clase de repaso",
+    "estado": "cancelada",
+    "autorizadoPor": null
+  },
+  {
+    "id": "sol-1008",
+    "equipoId": "eq-006",
+    "usuarioId": "usr-004",
+    "fechaRetiro": "2026-04-15",
+    "fechaDevolucion": "2026-04-17",
+    "motivo": "Registro fotográfico del evento de graduación",
+    "estado": "devuelta",
+    "autorizadoPor": "usr-002"
+  },
+  {
+    "id": "sol-1009",
+    "equipoId": "eq-007",
+    "usuarioId": "usr-003",
+    "fechaRetiro": "2026-07-01",
+    "fechaDevolucion": "2026-07-05",
+    "motivo": "Laboratorio de configuración de redes",
+    "estado": "pendiente",
+    "autorizadoPor": null
+  },
+  {
+    "id": "sol-1010",
+    "equipoId": "eq-001",
+    "usuarioId": "usr-003",
+    "fechaRetiro": "2026-05-25",
+    "fechaDevolucion": "2026-05-28",
+    "motivo": "Proyecto integrador grupal",
+    "estado": "devuelta",
+    "autorizadoPor": "usr-001"
+  },
+  {
+    "id": "sol-1011",
+    "equipoId": "eq-004",
+    "usuarioId": "usr-004",
+    "fechaRetiro": "2026-05-05",
+    "fechaDevolucion": "2026-05-06",
+    "motivo": "Reunión con padres - presentación institucional",
+    "estado": "aprobada",
+    "autorizadoPor": "usr-001"
+  },
+  {
+    "id": "sol-1012",
+    "equipoId": "eq-002",
+    "usuarioId": "usr-003",
+    "fechaRetiro": "2026-07-10",
+    "fechaDevolucion": "2026-07-15",
+    "motivo": "Cursada de verano - parcial domiciliario",
+    "estado": "pendiente",
+    "autorizadoPor": null
+  },
+  {
+    "id": "sol-1013",
+    "equipoId": "eq-007",
+    "usuarioId": "usr-001",
+    "fechaRetiro": "2026-11-09",
+    "fechaDevolucion": "2026-11-30",
+    "motivo": "porque si",
+    "estado": "devuelta",
+    "autorizadoPor": "usr-001"
+  }
+]

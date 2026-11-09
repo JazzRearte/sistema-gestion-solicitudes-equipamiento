@@ -1,0 +1,183 @@
+[
+  {
+    "id": "hist-001",
+    "solicitudId": "sol-1001",
+    "usuarioId": "usr-003",
+    "accion": "creacion",
+    "fechaHora": "2026-06-08T09:00:00.000Z",
+    "valorAnterior": null,
+    "valorNuevo": {
+      "estado": "pendiente"
+    }
+  },
+  {
+    "id": "hist-002",
+    "solicitudId": "sol-1002",
+    "usuarioId": "usr-004",
+    "accion": "creacion",
+    "fechaHora": "2026-06-08T10:30:00.000Z",
+    "valorAnterior": null,
+    "valorNuevo": {
+      "estado": "pendiente"
+    }
+  },
+  {
+    "id": "hist-003",
+    "solicitudId": "sol-1003",
+    "usuarioId": "usr-003",
+    "accion": "creacion",
+    "fechaHora": "2026-06-07T08:00:00.000Z",
+    "valorAnterior": null,
+    "valorNuevo": {
+      "estado": "pendiente"
+    }
+  },
+  {
+    "id": "hist-004",
+    "solicitudId": "sol-1003",
+    "usuarioId": "usr-001",
+    "accion": "aprobacion",
+    "fechaHora": "2026-06-07T11:00:00.000Z",
+    "valorAnterior": {
+      "estado": "pendiente"
+    },
+    "valorNuevo": {
+      "estado": "aprobada"
+    }
+  },
+  {
+    "id": "hist-005",
+    "solicitudId": "sol-1005",
+    "usuarioId": "usr-004",
+    "accion": "creacion",
+    "fechaHora": "2026-05-08T09:00:00.000Z",
+    "valorAnterior": null,
+    "valorNuevo": {
+      "estado": "pendiente"
+    }
+  },
+  {
+    "id": "hist-006",
+    "solicitudId": "sol-1005",
+    "usuarioId": "usr-001",
+    "accion": "aprobacion",
+    "fechaHora": "2026-05-08T14:00:00.000Z",
+    "valorAnterior": {
+      "estado": "pendiente"
+    },
+    "valorNuevo": {
+      "estado": "aprobada"
+    }
+  },
+  {
+    "id": "hist-007",
+    "solicitudId": "sol-1005",
+    "usuarioId": "usr-001",
+    "accion": "devolucion",
+    "fechaHora": "2026-05-14T16:00:00.000Z",
+    "valorAnterior": {
+      "estado": "aprobada"
+    },
+    "valorNuevo": {
+      "estado": "devuelta"
+    }
+  },
+  {
+    "id": "hist-008",
+    "solicitudId": "sol-1006",
+    "usuarioId": "usr-003",
+    "accion": "creacion",
+    "fechaHora": "2026-05-18T10:00:00.000Z",
+    "valorAnterior": null,
+    "valorNuevo": {
+      "estado": "pendiente"
+    }
+  },
+  {
+    "id": "hist-009",
+    "solicitudId": "sol-1006",
+    "usuarioId": "usr-001",
+    "accion": "rechazo",
+    "fechaHora": "2026-05-19T09:00:00.000Z",
+    "valorAnterior": {
+      "estado": "pendiente"
+    },
+    "valorNuevo": {
+      "estado": "rechazada"
+    }
+  },
+  {
+    "id": "hist-010",
+    "solicitudId": "sol-1007",
+    "usuarioId": "usr-003",
+    "accion": "creacion",
+    "fechaHora": "2026-04-28T11:00:00.000Z",
+    "valorAnterior": null,
+    "valorNuevo": {
+      "estado": "pendiente"
+    }
+  },
+  {
+    "id": "hist-011",
+    "solicitudId": "sol-1007",
+    "usuarioId": "usr-003",
+    "accion": "cancelacion",
+    "fechaHora": "2026-04-30T08:00:00.000Z",
+    "valorAnterior": {
+      "estado": "pendiente"
+    },
+    "valorNuevo": {
+      "estado": "cancelada"
+    }
+  },
+  {
+    "id": "hist-12",
+    "solicitudId": "sol-1013",
+    "usuarioId": "usr-001",
+    "accion": "creacion",
+    "fechaHora": "2026-11-09T19:08:12.215Z",
+    "valorAnterior": null,
+    "valorNuevo": {
+      "estado": "pendiente"
+    }
+  },
+  {
+    "id": "hist-13",
+    "solicitudId": "sol-1001",
+    "usuarioId": "usr-001",
+    "accion": "aprobacion",
+    "fechaHora": "2026-11-09T19:08:54.816Z",
+    "valorAnterior": {
+      "estado": "pendiente"
+    },
+    "valorNuevo": {
+      "estado": "aprobada"
+    }
+  },
+  {
+    "id": "hist-14",
+    "solicitudId": "sol-1013",
+    "usuarioId": "usr-001",
+    "accion": "aprobacion",
+    "fechaHora": "2026-11-09T19:09:09.996Z",
+    "valorAnterior": {
+      "estado": "pendiente"
+    },
+    "valorNuevo": {
+      "estado": "aprobada"
+    }
+  },
+  {
+    "id": "hist-15",
+    "solicitudId": "sol-1013",
+    "usuarioId": "usr-001",
+    "accion": "devolucion",
+    "fechaHora": "2026-11-09T19:09:13.281Z",
+    "valorAnterior": {
+      "estado": "aprobada"
+    },
+    "valorNuevo": {
+      "estado": "devuelta"
+    }
+  }
+]

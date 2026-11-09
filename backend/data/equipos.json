@@ -1,0 +1,74 @@
+[
+  {
+    "id": "eq-001",
+    "codigoInventario": "INV-2026-001",
+    "nombre": "Notebook Dell Latitude 14",
+    "categoria": "notebook",
+    "estado": "prestado",
+    "ubicacion": "Laboratorio A5",
+    "requiereAutorizacion": false
+  },
+  {
+    "id": "eq-002",
+    "codigoInventario": "INV-2026-002",
+    "nombre": "Notebook Lenovo ThinkPad E15",
+    "categoria": "notebook",
+    "estado": "disponible",
+    "ubicacion": "Laboratorio A5",
+    "requiereAutorizacion": false
+  },
+  {
+    "id": "eq-003",
+    "codigoInventario": "INV-2026-003",
+    "nombre": "Notebook HP ProBook 450",
+    "categoria": "notebook",
+    "estado": "prestado",
+    "ubicacion": "Laboratorio B2",
+    "requiereAutorizacion": false
+  },
+  {
+    "id": "eq-004",
+    "codigoInventario": "INV-2026-004",
+    "nombre": "Proyector Epson PowerLite X49",
+    "categoria": "proyector",
+    "estado": "disponible",
+    "ubicacion": "Aula Magna",
+    "requiereAutorizacion": false
+  },
+  {
+    "id": "eq-005",
+    "codigoInventario": "INV-2026-005",
+    "nombre": "Proyector BenQ MH535",
+    "categoria": "proyector",
+    "estado": "prestado",
+    "ubicacion": "Aula 201",
+    "requiereAutorizacion": false
+  },
+  {
+    "id": "eq-006",
+    "codigoInventario": "INV-2026-006",
+    "nombre": "Cámara Canon EOS R50",
+    "categoria": "camara",
+    "estado": "disponible",
+    "ubicacion": "Depósito Central",
+    "requiereAutorizacion": true
+  },
+  {
+    "id": "eq-007",
+    "codigoInventario": "INV-2026-007",
+    "nombre": "Kit de Red Cisco (switch + cables)",
+    "categoria": "kit de red",
+    "estado": "disponible",
+    "ubicacion": "Laboratorio Redes",
+    "requiereAutorizacion": true
+  },
+  {
+    "id": "eq-008",
+    "codigoInventario": "INV-2026-008",
+    "nombre": "Tablet Samsung Galaxy Tab A8",
+    "categoria": "tablet",
+    "estado": "mantenimiento",
+    "ubicacion": "Taller de Reparación",
+    "requiereAutorizacion": false
+  }
+]

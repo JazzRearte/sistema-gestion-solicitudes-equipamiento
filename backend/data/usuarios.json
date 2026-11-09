@@ -1,0 +1,34 @@
+[
+  {
+    "id": "usr-001",
+    "nombre": "Admin Sistema",
+    "email": "admin@equipamiento.com",
+    "passwordHash": "$2a$10$K34nDS.qjPOKKh6WYkxdBeAqPJp93iBRRHPeu8dc6eoWyEMGGFCIi",
+    "rol": "admin",
+    "activo": true
+  },
+  {
+    "id": "usr-002",
+    "nombre": "Laura Encargada",
+    "email": "encargada@equipamiento.com",
+    "passwordHash": "$2a$10$K34nDS.qjPOKKh6WYkxdBeAqPJp93iBRRHPeu8dc6eoWyEMGGFCIi",
+    "rol": "encargado",
+    "activo": true
+  },
+  {
+    "id": "usr-003",
+    "nombre": "Carlos López",
+    "email": "carlos@equipamiento.com",
+    "passwordHash": "$2a$10$K34nDS.qjPOKKh6WYkxdBeAqPJp93iBRRHPeu8dc6eoWyEMGGFCIi",
+    "rol": "usuario",
+    "activo": true
+  },
+  {
+    "id": "usr-004",
+    "nombre": "María González",
+    "email": "maria@equipamiento.com",
+    "passwordHash": "$2a$10$K34nDS.qjPOKKh6WYkxdBeAqPJp93iBRRHPeu8dc6eoWyEMGGFCIi",
+    "rol": "usuario",
+    "activo": true
+  }
+]
